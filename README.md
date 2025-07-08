@@ -4,4 +4,4 @@ Added a CSV file that is resampled for 5mins ,with the mean values of Temperatur
 
 Domain Research: https://docs.google.com/document/d/14uuAp1gpW_XsBwJynIjzJHINHyYDtIdfM6uAvYR43OQ/edit?usp=sharing
 
-Dataset limk:https://ubinet-iitkgp.github.io/ubinet/pages/DALTON
+Dataset link:https://ubinet-iitkgp.github.io/ubinet/pages/DALTON
